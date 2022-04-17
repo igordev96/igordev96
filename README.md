@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Front End developer, living in Portugal, looking for a opportunity to work with coding
+I'm a Front End developer, living in Portugal and always improving myself
 
 
 ## 🔗 Links
@@ -10,19 +10,15 @@ I'm a Front End developer, living in Portugal, looking for a opportunity to work
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igordev96/)
 
 ## 🛠 Skills
-Javascript, HTML, CSS, ReactJS, Redux, React-Query, Styled-Components...
+Javascript, TypeScript, SASS, HTML, CSS, ReactJS, Redux, React-Query, Styled-Components...
 
 
 ## Bio
-👩‍💻 I currently don't work with Front End development 😢
+👩‍💻 Working as a Software Developer
 
-📖 Studying daily to achieve my goals
-
-💻 Hoping that soon i'll be working as a Front End Developer
+📖 Studying daily to improve myself
 
 🔨 Always doing small projects to learn and consolidate new things
-
-🎉 Techs that i know: HTML, CSS, JavaScript, Redux, Styled-Components, ReactJS ...
 
 🤩 Studying now: React Libraries and Techs
 
