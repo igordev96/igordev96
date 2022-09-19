@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Front End developer, living in Portugal and always improving myself
+I'm a Front End developer who creates useful applications with React, living in Portugal and always improving.
 
 
 ## 🔗 Links
@@ -10,11 +10,11 @@ I'm a Front End developer, living in Portugal and always improving myself
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igordev96/)
 
 ## 🛠 Skills
-Javascript, TypeScript, SASS, HTML, CSS, ReactJS, Redux, React-Query, Styled-Components...
+TypeScript, React, Tailwind, Material UI, Radix UI, SASS, HTML, CSS, Redux, React-Query, Styled-Components...
 
 
 ## Bio
-👩‍💻 Working as a Software Developer
+👩‍💻 Working as a Front End Developer
 
 📖 Studying daily to improve myself
 
@@ -22,6 +22,6 @@ Javascript, TypeScript, SASS, HTML, CSS, ReactJS, Redux, React-Query, Styled-Com
 
 🤩 Studying now: React Libraries and Techs
 
-🔭 Techs that i want to learn: Node.JS, MongoDB, React Native ...
+🔭 Techs that i want to learn: Node.JS, React Native ...
 
 📢 Contact me on my [LinkedIn](https://www.linkedin.com/in/igordev96/) 
